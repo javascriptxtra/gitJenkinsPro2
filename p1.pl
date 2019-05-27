@@ -6,3 +6,4 @@ use strict;
 my $date = `date`;
 chomp($date);
 print "today is $date\n";
+print "awesome stuff\n";
